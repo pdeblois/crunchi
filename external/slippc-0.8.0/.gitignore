@@ -1,0 +1,16 @@
+build/*
+build-win/*
+callgrind*
+slippc
+slippc-tests
+slippc.exe
+*.json
+*.gz
+*.slp
+_alt*
+Game*
+__*
+*~
+.todo
+test-replays/zlptest.zlp
+test-replays/zlptest.slp
